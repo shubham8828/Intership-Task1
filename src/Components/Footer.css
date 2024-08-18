@@ -1,0 +1,15 @@
+/* Footer.css */
+.footer-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 90px;
+   background: rgba(255, 255, 255, 0.388);
+   margin-top: 50px;
+  }
+  
+  .footer-container p {
+    margin: 5px 0;
+    color: white;
+  }
+  
